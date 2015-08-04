@@ -1,6 +1,6 @@
-a {
-	text-decoration: none;
-}
+/***************
+GENERAL
+***************/
 
 #wrapper {
 	max-width: 940px;
@@ -8,7 +8,66 @@ a {
 	padding: 0 5%;
 	}
 
-	#logo {
+a {
+	text-decoration: none;
+}
+
+
+
+/***************
+HEADING
+***************/
+
+#logo {
 		text-align: center;
 		margin: 0;
 	}
+
+
+
+/***************
+COLOURS
+***************/
+
+/* site body */
+body {
+	background-color: #fff;
+	color: #999;
+}
+
+/* green header */
+header {
+	background: #a4cfbe;
+	border-collapse: #f25946;
+}
+
+/* nav background on mobile */
+nav {
+	background: #f25946;
+}
+
+/* logo text */
+h1, h2 {
+	color: #fff;
+}
+
+/* links*/
+a {
+	color: #6ab47b;
+}
+
+/* nav link */
+nav a, nav a:visited {
+	color: #fff;
+}
+/* selected nav link */
+nav a.selected, nav a:hover {
+	color: #3e423a;
+}
+
+
+
+
+
+
+
