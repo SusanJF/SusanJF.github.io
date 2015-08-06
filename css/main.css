@@ -111,11 +111,11 @@ PAGE PORTFOLIO
 }
 
 #gallery li {
-	float: right;
+	float: left;
 	width: 45%;
 	margin: 2.5%;
 	background-color: #f5f5f5;
-	
+
 }
 
 #gallery li a p {
